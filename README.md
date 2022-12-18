@@ -23,8 +23,8 @@ Tutorial paso a paso del curso Flask-SQLAlchemy
 ![image](https://user-images.githubusercontent.com/91748786/208309001-a2ea8067-a217-48c0-98c7-4cd62b26dd8d.png)
 
 8. Borramos algun usuario.
-![image](https://user-images.githubusercontent.com/91748786/208309092-c611d0bf-bc20-4329-b016-cc4dbbc63626.png)
 
+![image](https://user-images.githubusercontent.com/91748786/208309092-c611d0bf-bc20-4329-b016-cc4dbbc63626.png)
 
 9. Creamos un mock con rellenando nuestras tablas de datos,
 ![image](https://user-images.githubusercontent.com/91748786/208309238-b6b19efd-ee75-4793-b113-0fe09cfbf1d1.png)
