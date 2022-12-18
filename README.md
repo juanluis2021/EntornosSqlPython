@@ -25,6 +25,7 @@ Tutorial paso a paso del curso Flask-SQLAlchemy
 8. Borramos algun usuario.
 ![image](https://user-images.githubusercontent.com/91748786/208309092-c611d0bf-bc20-4329-b016-cc4dbbc63626.png)
 
+
 9. Creamos un mock con rellenando nuestras tablas de datos,
 ![image](https://user-images.githubusercontent.com/91748786/208309238-b6b19efd-ee75-4793-b113-0fe09cfbf1d1.png)
 
@@ -36,6 +37,7 @@ Tutorial paso a paso del curso Flask-SQLAlchemy
 
 12. Obtenemos todos los clientes de la tabla customers
 ![image](https://user-images.githubusercontent.com/91748786/208309509-7d090358-7f5d-406d-b6c2-6a9b7070fe0c.png)
+
 
 13. Obtenemos todos los pedidos que tengan que tengan codigo de cupon y que sean diferente de 'FREESHIPPING'.
 ![image](https://user-images.githubusercontent.com/91748786/208309655-84a2d2b1-0ec0-41e2-af3e-66dca34ca21a.png)
