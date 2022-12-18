@@ -26,7 +26,8 @@ Tutorial paso a paso del curso Flask-SQLAlchemy
 
 ![image](https://user-images.githubusercontent.com/91748786/208309092-c611d0bf-bc20-4329-b016-cc4dbbc63626.png)
 
-9. Creamos un mock con rellenando nuestras tablas de datos,
+9. Creamos un mock con rellenando nuestras tablas de datos.
+
 ![image](https://user-images.githubusercontent.com/91748786/208309238-b6b19efd-ee75-4793-b113-0fe09cfbf1d1.png)
 
 10. Obtenemos todos los pedidos del clienteID = 1 y mostramos la fecha. 
@@ -35,7 +36,8 @@ Tutorial paso a paso del curso Flask-SQLAlchemy
 11. Obtenemos todos los registros pendientes que aun no se han entregado de mas reciente a mas antiguo.
 ![image](https://user-images.githubusercontent.com/91748786/208309469-917f9228-14ca-4918-80fc-2c3cf9a51f28.png)
 
-12. Obtenemos todos los clientes de la tabla customers
+12. Obtenemos todos los clientes de la tabla customers.
+
 ![image](https://user-images.githubusercontent.com/91748786/208309509-7d090358-7f5d-406d-b6c2-6a9b7070fe0c.png)
 
 
