@@ -17,7 +17,7 @@ Tutorial paso a paso del curso Flask-SQLAlchemy
 ![image](https://user-images.githubusercontent.com/91748786/208308829-7d11e926-5b05-4da9-bb04-cc48d0150a9d.png)
 
 6. Insertamos datos dentro de la BD.
-[image](https://user-images.githubusercontent.com/91748786/208308927-695d86e2-26ef-47f4-88d7-bacad72562b3.png)
+![image](https://user-images.githubusercontent.com/91748786/208308927-695d86e2-26ef-47f4-88d7-bacad72562b3.png)
 
 7. Actualizamos el usuario.
 ![image](https://user-images.githubusercontent.com/91748786/208309001-a2ea8067-a217-48c0-98c7-4cd62b26dd8d.png)
